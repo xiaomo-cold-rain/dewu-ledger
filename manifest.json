@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "砖记 · 得物搬砖利润账本",
+  "short_name": "砖记",
+  "description": "记录拿货渠道、本金、运费与得物到手价，单件利润和总利润自动结算，数据只存在本机。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#F4F0E6",
+  "theme_color": "#F4F0E6",
+  "categories": ["finance", "business", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
